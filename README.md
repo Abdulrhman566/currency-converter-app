@@ -44,7 +44,7 @@ lib/
 ### 1. Clone the Repository
 
 ```bash
-git https://github.com/Abdulrhman566/currenct-converter-app
+git https://github.com/Abdulrhman566/currency-converter-app
 cd currency_converter
 ```
 
